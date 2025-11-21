@@ -196,5 +196,4 @@ $dbname = "led_system"; // 必须与 SQL 中的库名一致
 
 ---
 
-**Project by AI Engineer Candidate**
-*此项目作为技术能力展示，包含了前端工程化、后端 API 设计及数据库交互的完整闭环。*
+
