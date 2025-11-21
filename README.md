@@ -171,6 +171,12 @@ $dbname = "led_system"; // 必须与 SQL 中的库名一致
 *   如果点击提交能存入数据库，说明全栈链路通畅。
 
 ---
+<img width="3072" height="1582" alt="image" src="https://github.com/user-attachments/assets/6a0277dc-218c-4b97-bf98-a6a0f9e30208" />
+
+<img width="3072" height="1582" alt="image" src="https://github.com/user-attachments/assets/a4e9a56d-94f3-45af-9d64-ee8905187976" />
+
+
+
 
 ## 📡 API 接口文档
 
@@ -196,4 +202,5 @@ $dbname = "led_system"; // 必须与 SQL 中的库名一致
 
 ---
 
+<img width="3056" height="1668" alt="image" src="https://github.com/user-attachments/assets/3d9386a6-013e-486a-8569-ba98e1e9c20c" />
 
